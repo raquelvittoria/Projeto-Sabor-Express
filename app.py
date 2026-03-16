@@ -123,7 +123,7 @@ def escolher_opcao():
     - Executa a opção escolhida pelo usuário
     '''
     try:
-        opcao_escolhida = int(input('Escolha uma opção: '))
+        opcao_escolhida = int(input('Escolha a opção que deseja: '))
         # opcao_escolhida = int(opcao_escolhida)
 
         if opcao_escolhida == 1: 
